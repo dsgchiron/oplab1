@@ -1,0 +1,15 @@
+/workspaces/oplab1/bin/Debug/net10.0/oplab1
+/workspaces/oplab1/bin/Debug/net10.0/oplab1.deps.json
+/workspaces/oplab1/bin/Debug/net10.0/oplab1.runtimeconfig.json
+/workspaces/oplab1/bin/Debug/net10.0/oplab1.dll
+/workspaces/oplab1/bin/Debug/net10.0/oplab1.pdb
+/workspaces/oplab1/obj/Debug/net10.0/oplab1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oplab1/obj/Debug/net10.0/oplab1.AssemblyInfoInputs.cache
+/workspaces/oplab1/obj/Debug/net10.0/oplab1.AssemblyInfo.cs
+/workspaces/oplab1/obj/Debug/net10.0/oplab1.csproj.CoreCompileInputs.cache
+/workspaces/oplab1/obj/Debug/net10.0/oplab1.sourcelink.json
+/workspaces/oplab1/obj/Debug/net10.0/oplab1.dll
+/workspaces/oplab1/obj/Debug/net10.0/refint/oplab1.dll
+/workspaces/oplab1/obj/Debug/net10.0/oplab1.pdb
+/workspaces/oplab1/obj/Debug/net10.0/oplab1.genruntimeconfig.cache
+/workspaces/oplab1/obj/Debug/net10.0/ref/oplab1.dll
